@@ -1,4 +1,4 @@
-skrollr.js demo
+parallax.js demo
 --
 
 

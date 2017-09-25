@@ -1,5 +1,5 @@
 {
-  "name": "skrollr.js",
+  "name": "parallax",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sysuzhyupeng/skrollr.js.git"
+    "url": "git+https://github.com/sysuzhyupeng/parallax.git"
   },
   "author": "sysuzhyupeng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sysuzhyupeng/skrollr.js/issues"
+    "url": "https://github.com/sysuzhyupeng/parallax/issues"
   },
-  "homepage": "https://github.com/sysuzhyupeng/skrollr.js#readme",
+  "homepage": "https://github.com/sysuzhyupeng/parallax#readme",
   "devDependencies": {
     "css-loader": "^0.28.4",
     "less": "^2.7.2",
